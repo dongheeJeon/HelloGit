@@ -6,6 +6,9 @@ package hellogit.test0604;
 			
 			System.out.println("Hello~ Git~");
 			System.out.println("Good to see you");
+<<<<<<< HEAD
 			System.out.println("Again");
+=======
+>>>>>>> origin/master
 		}
 	}
