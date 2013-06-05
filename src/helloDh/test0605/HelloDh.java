@@ -6,5 +6,6 @@ package helloDh.test0605;
 
 		
 			System.out.println("Hello Dong-hee");
+			System.out.println("Hello Dong-hee");
 		}
 	}
