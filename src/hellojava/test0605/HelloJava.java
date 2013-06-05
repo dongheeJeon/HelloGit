@@ -1,4 +1,4 @@
-package hellojava.test0605;
+package helloJava.test0605;
 
 	public class HelloJava {
 		
